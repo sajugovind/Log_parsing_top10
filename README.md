@@ -37,7 +37,7 @@ optional arguments:
   --all         6. The Complete reports
 ```
 
-### Example 2 - Invlid Argument:
+### Example 2 - Invalid Argument:
 ```
 ❯ python3 Collector.py --top20
 usage: exec [--top10] [--persuccess] [--perfail] [--top10fail] [--top10hosts] [-h] [--all]
@@ -66,7 +66,7 @@ URL : /templates/jp_hotel/css/template.css  number of requests : 457
 
 Percentage of successful requests: 95.59
 ```
-### Example 5 - Unsuccess requests percentage:
+### Example 5 - Unsuccessfull requests percentage:
 ```
 ❯ python3 Collector.py --perfail
 
