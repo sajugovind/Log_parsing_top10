@@ -44,7 +44,7 @@ usage: exec [--top10] [--persuccess] [--perfail] [--top10fail] [--top10hosts] [-
 exec [--top10] [--persuccess] [--perfail] [--top10fail] [--top10hosts]: error: unrecognized arguments: --top20
 ```
 
-### Example 3 - Top 10 Requested URL):
+### Example 3 - Top 10 Requested URL:
 ```
 ❯ python3 Collector.py --top10
 
